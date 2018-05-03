@@ -1,6 +1,6 @@
 # Alcatraz webpage date checker
 
-AWS Lambda script, that checks for free dates for alcatraz events and sends an e-mail if a free date was found.
+AWS Lambda script, that checks for free dates for alcatraz events at http://www.alcatraztickets.com and sends an e-mail if a free date was found.
 
 ## Start
 ```bash
